@@ -11,5 +11,5 @@ export default defineConfig({
       // failOnWarning: false, // حتى التحذيرات
     }),
   ],
-  base: '/Fast-React-Pizza-Co-v2/',
+  base: '/Fast-React-Pizza-Co-v2',
 });
